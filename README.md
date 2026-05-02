@@ -126,18 +126,6 @@ flutter run -d chrome
 
 ---
 
-## 📸 Screenshots
-
-| Screen | Preview |
-|---|---|
-| Home Dashboard | *(screenshot)* |
-| AI Chat Interface | *(screenshot)* |
-| Add Transaction | *(screenshot)* |
-| Spending Insights | *(screenshot)* |
-| Category Breakdown | *(screenshot)* |
-
----
-
 ## 🚀 Deployment
 
 | Layer | Platform |
